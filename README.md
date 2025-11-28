@@ -36,8 +36,8 @@ Pastikan Anda sudah menginstal:
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/Y0nnS/khiverse-trashinno.git
-   cd khiverse-trashinno
+   git clone https://github.com/Y0nnS/webdesign_khiverse_technoversary25.git
+   cd webdesign_khiverse_technoversary25
    ```
 
 2. **Install Dependencies**
@@ -74,5 +74,5 @@ yarn start
 
 ## 🔗 Link Project
 
-- **GitHub Repository**: [https://github.com/Y0nnS/khiverse-trashinno](https://github.com/Y0nnS/khiverse-trashinno)
+- **GitHub Repository**: [https://github.com/Y0nnS/webdesign_khiverse_technoversary25](https://github.com/Y0nnS/webdesign_khiverse_technoversary25)
 - **Live Demo**: [https://www.trashinno.my.id/](https://www.trashinno.my.id/)
