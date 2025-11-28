@@ -1,104 +1,79 @@
-# 🚀 Trashinno - Smart Waste Management System
-**Trashinno** is an innovative waste management platform that leverages technology to optimize waste collection, recycling, and environmental sustainability.
+# Trashinno - Smart Waste Management System
 
-## 🌟 Key Features
+## 👥 Nama Anggota dan Asal Instansi
 
-- 🗑️ Smart waste monitoring with IoT sensors
-- 📊 Real-time analytics dashboard
-- 📅 Intelligent collection scheduling
-- ♻️ Recycling optimization tools
-- 📱 Mobile-friendly interface
-- 🔐 Secure authentication system
+**Tim Pengembang:**
+- **Anggota 1** - Andika Arifin - SMK Telkom Sidoarjo
+- **Anggota 2** - Aruna Pria Maheswara - SMK Telkom Sidoarjo
 
-## 🛠️ Tech Stack
+## 📌 Judul Website
 
-**Frontend:**
-- Next.js 14 (App Router)
-- React 18
-- TypeScript
-- Tailwind CSS
-- Framer Motion (Animations)
-- React Hook Form (Form handling)
-- Zod (Validation)
+**Trashinno - Smart Waste Management System**
 
-**Backend:**
-- Node.js
-- NextAuth.js (Authentication)
-- Supabase (Database)
-- Prisma (ORM)
-- AWS S3 (File storage)
+Platform manajemen sampah pintar yang memanfaatkan teknologi IOT untuk mengoptimalkan pengumpulan sampah, daur ulang, dan keberlanjutan lingkungan.
 
-**DevOps:**
-- Docker
-- GitHub Actions (CI/CD)
-- Vercel (Hosting)
+## 📖 Deskripsi Website
 
-## 🚀 Getting Started
+Trashinno adalah solusi inovatif untuk mengatasi permasalahan pengelolaan sampah di lingkungan perkotaan dan perumahan. Website ini menyediakan sistem yang membantu dalam:
+
+- **Monitoring Sampah Pintar**: Pemantauan real-time kondisi tempat sampah menggunakan sensor IoT
+- **Dashboard Analitik**: Visualisasi data dan statistik pengelolaan sampah secara komprehensif
+- **Penjadwalan Cerdas**: Sistem penjadwalan pengumpulan sampah yang efisien berdasarkan data
+- **Optimasi Daur Ulang**: Tools untuk meningkatkan efektivitas program daur ulang
+- **Interface Responsif**: Tampilan yang mobile-friendly dan mudah digunakan
+- **Sistem Autentikasi**: Keamanan data pengguna dengan sistem autentikasi yang terpercaya
+
+Website ini dibangun menggunakan teknologi modern seperti Next.js, TypeScript, Tailwind CSS, dan Supabase untuk memberikan pengalaman pengguna yang optimal dan performa yang cepat.
+
+## 🚀 Cara Instalasi & Menjalankan Project
 
 ### Prerequisites
-- Node.js 18+
-- npm 9+ or yarn 1.22+
-- Docker (for local database)
+Pastikan Anda sudah menginstal:
+- Node.js versi 18 atau lebih tinggi
+- npm versi 9+ atau yarn versi 1.22+
+- Git
 
-## 📂 Project Structure
+### Langkah-langkah Instalasi
 
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/Y0nnS/khiverse-trashinno.git
+   cd khiverse-trashinno
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+  # atau
+   yarn dev
+   ```
+
+4. **Jalankan Development Server**
+   ```bash
+   npm run dev
+   # atau
+   yarn dev
+   ```
+
+5. **Akses Website**
+   
+   Buka browser dan akses: [http://localhost:3000](http://localhost:3000)
+
+### Build untuk Production
+
+```bash
+# Build project
+npm run build
+# atau
+yarn build
+
+# Jalankan production server
+npm run start
+# atau
+yarn start
 ```
-trashinno/
-├── app/                    # Next.js app router
-│   ├── (auth)/             # Authentication routes
-│   ├── dashboard/          # Main application
-│   └── api/                # API routes
-├── components/             # Reusable components
-├── lib/                    # Utility functions
-├── public/                 # Static assets
-├── styles/                 # Global styles
-├── types/                  # TypeScript types
-└── prisma/                 # Database schema
-```
 
-## 🤝 Contributing
+## 🔗 Link Project
 
-We welcome contributions! Please follow these steps:
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📧 Contact
-
-Project Maintainer - Y0nnS
-
-Project Link: [https://www.trashinno.my.id/](https://www.trashinno.my.id/)
-
-## 🌱 Sustainability Impact
-
-By using Trashinno, communities have:
-- Reduced waste collection costs by up to 30%
-- Increased recycling rates by 45%
-- Lowered carbon emissions from collection vehicles
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/trashinno?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/yourusername/trashinno?style=social" alt="GitHub forks">
-</p>
-
-This README includes:
-- Eye-catching emojis and badges
-- Clear feature highlights
-- Visual screenshots
-- Detailed tech stack
-- Easy setup instructions
-- Project structure overview
-- Contribution guidelines
-- Impact metrics
-- Clean formatting with markdown
-
-You can customize the screenshots, contact info, and repository links to match your actual project details. The layout is designed to be both informative and visually appealing for GitHub visitors.
+- **GitHub Repository**: [https://github.com/Y0nnS/khiverse-trashinno](https://github.com/Y0nnS/khiverse-trashinno)
+- **Live Demo**: [https://www.trashinno.my.id/](https://www.trashinno.my.id/)
