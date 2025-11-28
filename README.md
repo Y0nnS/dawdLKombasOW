@@ -89,5 +89,3 @@ yarn start
 - **Live Demo**: [https://www.trashinno.my.id/](https://www.trashinno.my.id/)
 
 ---
-
-**Dikembangkan dengan ❤️ oleh Tim Trashinno**
